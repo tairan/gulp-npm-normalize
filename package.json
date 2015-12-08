@@ -1,0 +1,21 @@
+{
+    "name": "gulp-npm-normalize",
+    "version": "0.1.0",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tairan/gulp-npm-normalize.git"
+    },
+    "keywords": [
+        "gulpplugin"
+    ],
+    "author": "Tairan Wang <tairan.wang@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "gulp-util": "^3.0.1",
+        "path": "^0.4.9"
+    },
+    "devDependencies": {
+        "gulp": "^3.8.10"
+    }
+}
